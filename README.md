@@ -1,7 +1,7 @@
 # TaskMind
 
 **Elevator pitch (2 lines):**  
-TaskMind is a clean, responsive task-tracker that helps users quickly add, prioritize, and complete daily tasks. It also provides intelligent suggestions based on your recent task history to speed up task entry.
+TaskMind is a full-stack productivity web app that helps users organize, track and complete daily tasks efficiently. It also intelligently suggests task titles based on recent entries to accelerate planning.
 
 **Tech stack:**  
 MongoDB, Express.js, Node.js, React, JWT (authentication), Mongoose, Chart.js (dashboard charts), Vercel (frontend) / Render or Heroku (backend), Git/GitHub.
